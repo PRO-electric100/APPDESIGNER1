@@ -1,0 +1,1 @@
+input("como podria saberlo")
